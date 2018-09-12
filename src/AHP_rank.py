@@ -1,7 +1,7 @@
 import copy
 cspn =5 #Number of CSPs
 prn =4 #Number of parameters
-imp=[[1]*prn]*prn #Priority of parameters
+imp=[[1]*prn]*prn
 para=["Performance","Availability", "Scalability", "Cost"]
 sum_=[0]*prn
 wt=[0]*prn
@@ -46,7 +46,7 @@ def comp():
 
 def ranking():
 	
-	pos=0
+	pos=0 #The CSP under consideration
 	d=[]
 	for i in range(len(rank)):
 		max1_=-1
