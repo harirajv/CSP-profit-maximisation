@@ -25,7 +25,7 @@ CSP 5		1	0.6	1	1
 Importance of parameters matrix M
 		Availability	Support	Trust	Price
 Availability		1	1	1	1
-Trust			1	1	1	1
+Support			1	1	1	1
 Trust			1	1	1	1
 Price			1	1	1	1
 SUM			4	4	4	4
