@@ -1,1 +1,4 @@
-Consider 4 attributes: Availability, Technical support, Trust result and Price. User ratings for 5 CSPs for each of these attributes are obtained. These ratings are then normalized and then BSCU is performed to increase profits for a chosen CSP. The output is the minimum price rating and thus the decrease from the initial price rating.
+Consider 4 attributes: Availability, Technical support, Trust result and Price.
+User ratings for 5 CSPs for each of these attributes are obtained.
+These ratings are then normalized and then BSCU is performed to increase profits for a chosen CSP.
+The output is the minimum price rating and thus the decrease from the initial price rating.
