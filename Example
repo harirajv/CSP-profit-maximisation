@@ -12,7 +12,7 @@ CSP 2	        	3          5	      4	      4
 CSP 3	        	4          3	      1	      2
 CSP 4	        	2          3	      1	      2.5
 CSP 5			5	   3	      5       4
-1 Very Low, 2 Low, 3 Average, 4 High, 5 Very High
+1:Very Low, 2:Low, 3:Average, 4:High, 5:Very High
 
 Normalized matrix P
 	Availability	Support	Trust	Price
@@ -30,4 +30,4 @@ Trust			1	1	1	1
 Price			1	1	1	1
 SUM			4	4	4	4
 
-For the above example, the ranking of CSP #? does not change for upto 19% decrease in Price rating.
+For the above example, the ranking of CSP1 does not change for upto 19% decrease in Price rating.
