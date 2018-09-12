@@ -1,7 +1,7 @@
 import copy
-cspn =5
-prn =4
-imp=[[1]*prn]*prn
+cspn =5 #Number of CSPs
+prn =4 #Number of parameters
+imp=[[1]*prn]*prn #Priority of parameters
 para=["Performance","Availability", "Scalability", "Cost"]
 sum_=[0]*prn
 wt=[0]*prn
