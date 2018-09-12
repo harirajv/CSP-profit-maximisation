@@ -30,4 +30,6 @@ Trust			1	1	1	1
 Price			1	1	1	1
 SUM			4	4	4	4
 
+The CSPs in order of their AHP ranks is 5, 2, 1, 3, 4.
+
 For the above example, the ranking of CSP1 does not change for upto 19% decrease in Price rating.
