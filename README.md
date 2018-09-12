@@ -6,7 +6,7 @@ Binary Search Cost Updation is a framework that can be used by Cloud service pro
 Analytical Hierarchy Process (AHP) is a multi-criteria decision making mechanism. It simplifies decision making in problems that involve multiple factors in a quantitative manner.
 For more details, visit https://en.wikipedia.org/wiki/Analytic_hierarchy_process
 
-##Trust Ranking
+## Trust Ranking
 Cloud Service Providers(CPS) are compared primarily using the Quality of Service(QoS) attributes. The QoS ratings provided by users for different CSPs can be used to compute rankings of the CSPs and thus compare their relative performances.
 
 # Proposed Model
