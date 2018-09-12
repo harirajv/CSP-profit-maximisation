@@ -1,0 +1,29 @@
+Consider 4 attributes: Availability, Technical support, Trust result and Price. User ratings for 5 CSPs for each of these attributes are obtained. These ratings are then normalized and then BSCU is performed to increase profits for a chosen CSP. The output is the minimum price rating and thus the decrease from the initial price rating.
+
+Refer the below tables for an example:
+CSP v/s parameter rating dataset
+	      Availability	Support	  Trust	  Price
+CSP 1	        3	          3	      1       3
+CSP 2	        3	          5	      4	      4
+CSP 3	        4	          3	      1	      2
+CSP 4	        2	          3	      1	      2.5
+CSP 5	5	3	5	4
+1 Very Low, 2 Low, 3 Average, 4 High, 5 Very High
+
+Normalized matrix P
+	Availability	Technical Support	Trust Result	Price
+CSP 1	0.6	0.6	0.2	0.75
+CSP 2	0.6	1	0.8	1
+CSP 3	0.8	0.6	0.2	0.5
+CSP 4	0.4	0.6	0.2	0.625
+CSP 5	1	0.6	1	1
+
+Importance of parameters matrix M
+	Availability	Technical Support	Trust Result	Price
+Availability	1	1	1	1
+Technical Support	1	1	1	1
+Trust Result	1	1	1	1
+Price	1	1	1	1
+SUM	4	4	4	4
+
+For the above example, the ranking of CSP #? does not change for upto 19% decrease in Price rating.
