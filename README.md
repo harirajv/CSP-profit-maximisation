@@ -3,3 +3,4 @@ Binary Search Cost Updation is a framework that can be used by Cloud service pro
 
 # Methodology
 ## AHP
+Analytical Hierarchy Process (AHP) is a multi-criteria decision making mechanism. It simplifies decision making in problems that involve multiple factors in a quantitative manner.
